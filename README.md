@@ -1,6 +1,6 @@
 # 👨‍💻 Castro Kaiser
 
-**`Desenvolvedor FrontEnd`**
+**`Analista de Dados`**
 
 Olá, me chamo Castro Kaiser, tenho 22 anos e sou natural do Espírito Santo. Atualmente estou cursando Ciência da Computação na UVV e tenho formação técnica em Desenvolvimento de sistemas pelo Senai.  
 Estou sempre em busca de aprender mais, novos desafios e oportunidades no mercado para desenvolver ainda mais minhas habilidades.
