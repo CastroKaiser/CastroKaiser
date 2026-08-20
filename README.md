@@ -1,10 +1,13 @@
 <h1 align="center">E aí, eu sou o Castro Kaiser 👋</h1> 
+<p align="center">Analista de Dados | Microsoft Plataform | Full-Stack em Dados</p>
+
+---
 
 <div>
-  <img/>
+  <img src="https://github.com/CastroKaiser/CastroKaiser/blob/main/banner.jpg" alt="banner"/>
 </div>
 
-<p align="center">Analista de Dados | Curioso por natureza | Sempre em busca do "porquê" por trás dos dados</p>
+---
 🧭 Sobre mim
 
 Sou Analista de Dados há 1 ano e estou me aprofundando na área a cada dia. Desenvolvo projetos que vão desde engenharia até ciência de dados — gosto muito do que faço e sei que ainda tenho bastante a agregar conforme ganho experiência.
