@@ -1,5 +1,5 @@
 <h1 align="center">E aí, eu sou o Castro Kaiser 👋</h1>
-<p align="center">Analista de Dados | Microsoft Platform | Automações com Python</p>
+<p align="center">Analista de Dados | PowerPlatform Microsoft | Automações com Python</p>
 <div>
   <img src="https://github.com/CastroKaiser/CastroKaiser/blob/main/banner.jpg" alt="banner"/>
 </div>
