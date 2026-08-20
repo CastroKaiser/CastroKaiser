@@ -22,4 +22,8 @@ Estou sempre em busca de aprender mais, novos desafios e oportunidades no mercad
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Caka-python" width="40"/>
 </div>
 
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://vercel.app)
 
