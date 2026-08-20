@@ -1,29 +1,46 @@
-# 👨‍💻 Castro Kaiser
+<h1 align="center">E aí, eu sou o Castro Kaiser 👋</h1> 
 
-**`Analista de Dados`**
+<div>
+  <img/>
+</div>
 
-Olá, me chamo Castro Kaiser, tenho 23 anos e sou natural do Espírito Santo. Atualmente estou cursando Ciência da Computação na UVV e tenho formação técnica em Desenvolvimento de sistemas pelo Senai.  
-Estou sempre em busca de aprender mais, novos desafios e oportunidades no mercado para desenvolver ainda mais minhas habilidades.
+<p align="center">Analista de Dados | Curioso por natureza | Sempre em busca do "porquê" por trás dos dados</p>
+🧭 Sobre mim
+
+Sou Analista de Dados há 1 ano e estou me aprofundando na área a cada dia. Desenvolvo projetos que vão desde engenharia até ciência de dados — gosto muito do que faço e sei que ainda tenho bastante a agregar conforme ganho experiência.
+
+Sou novo na área e tenho consciência de que há muita coisa pra melhorar ainda. Mas tem uma coisa que carrego comigo: não preciso entender tudo de primeira, mas sempre procuro entender o motivo por trás das coisas. Pra mim, essa é a diferença entre só executar e realmente aprender.
+
+Fora dos dados, sou movido a respeito — acredito que ele se conquista, não se impõe. Prefiro pensar antes de falar, e admiro quem faz o mesmo. E sim, gosto de estudar praticamente qualquer matéria... menos português. Nunca me dei bem com linguagens 😅 (a ironia de trabalhar com dados e não gostar de português não passa despercebida por mim).
+
+---
+🎲 Projeto que me trouxe até aqui
+
+Um dos projetos que mais me dá satisfação é minha análise de dados de loterias — Lotofácil e Mega-Sena. Mantenho ele desde fevereiro de 2025, e é basicamente meu playground: onde eu brinco com os dados e testo formas diferentes de interpretá-los.
+
+Foi com esse projeto que descobri o que realmente me move na área: não é só analisar dados, é encontrar jeitos diferentes de enxergar a mesma informação. Foi ele que me deu o empurrão que eu precisava para seguir de vez nessa área.
 
 ---
 
-### 🌐 Meu LinkedIn
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castro-nunes-3501b6348/)
-
----
-
-### 🧰 Tecnologias
-<div style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Caka-js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Caka-css" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Caka-html" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Caka-react" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Caka-python" width="40"/>
+🛠️ Tecnologias
+<div align="center"> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/> 
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/> 
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/> 
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://vercel.app)
+📫 Vamos trocar uma ideia?
 
+Estou sempre aberto a sugestões, críticas e dicas de quem já passou pelo que estou vivendo agora. Se você deu uma olhada no meu perfil e tem algo pra me ajudar a melhorar, me chama no LinkedIn — vou adorar conversar.
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/castro-nunes-3501b6348/"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+</p>
